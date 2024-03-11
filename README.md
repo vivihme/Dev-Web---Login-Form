@@ -1,1 +1,1 @@
-# Dev-Web---Login-Form
+Projeto desenvolvido com base no video "Login Form in HTML & CSS", compartilhado no canal Codehal no YouTube [https://youtu.be/hlwlM4a5rxg]. Trata-se uma página de login usando as tecnologias de HTML5 e CSS3. O incremento foi feito na linha 101 do arquivo style.css, que permite uma transição de cor no botão submit
